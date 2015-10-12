@@ -2,7 +2,7 @@ var pub_img_current_image;
 function backgroundImage(){
 var pub_img_path='http://7xky7l.com1.z0.glb.clouddn.com/';
 
-var pub_img_num = 13;
+var pub_img_num = 14;
 
 var pub_img_current_no=function(){return Math.floor(Math.random()*pub_img_num+1);};
 
